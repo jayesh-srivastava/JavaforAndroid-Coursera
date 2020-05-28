@@ -12,3 +12,6 @@ Assignments of the Java for Android course on Coursera.
 #### Module 6 :Gate Assignment(m6-assignment-gate-a-skeleton)
 * [Gate.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m6-assignment-gate-a-skeleton/app/src/main/java/mooc/vandy/java4android/gate/logic/Gate.java)
 
+#### Module 6 :Gate Assignment(m6-assignment-gate-b-skeleton)
+* [FillTheCorral.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m6-assignment-gate-b-skeleton/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java)
+
