@@ -16,3 +16,5 @@ Assignments of the Java for Android course on Coursera.
 * [FillTheCorral.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m6-assignment-gate-b-skeleton/app/src/main/java/mooc/vandy/java4android/gate/logic/FillTheCorral.java)
 * [HerdManager.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m6-assignment-gate-b-skeleton/app/src/main/java/mooc/vandy/java4android/gate/logic/HerdManager.java)
 
+#### Module 7 :Buildings Assignments(m7-assignment-buildings-skeleton)
+
