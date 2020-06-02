@@ -21,4 +21,5 @@ Assignments of the Java for Android course on Coursera.
 * [Cottage.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Cottage.java)
 * [House.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/House.java)
 * [Office.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Office.java)
+* [Neighbourhood.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Neighborhood.java)
 
