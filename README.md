@@ -18,4 +18,5 @@ Assignments of the Java for Android course on Coursera.
 
 #### Module 7 :Buildings Assignments(m7-assignment-buildings-skeleton)
 * [Building.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Building.java)
+* [Cottage.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Cottage.java)
 
