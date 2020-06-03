@@ -27,3 +27,4 @@ Assignments of the Java for Android course on Coursera.
 ### Module 8 :Calculator App(m8-assignment-calculator-skeleton)
 * [Add.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m8-assignment-calculator-skeleton/app/src/main/java/mooc/vandy/java4android/calculator/logic/Add.java)
 * [Subtract.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m8-assignment-calculator-skeleton/app/src/main/java/mooc/vandy/java4android/calculator/logic/Subtract.java)
+* [Multiply.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m8-assignment-calculator-skeleton/app/src/main/java/mooc/vandy/java4android/calculator/logic/Multiply.java)
