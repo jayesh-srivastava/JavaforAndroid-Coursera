@@ -23,3 +23,5 @@ Assignments of the Java for Android course on Coursera.
 * [Office.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Office.java)
 * [Neighbourhood.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m7-assignment-buildings-skeleton/app/src/main/java/mooc/vandy/java4android/buildings/logic/Neighborhood.java)
 
+## Week 4
+### Module 8 :Calculator App(m8-assignment-calculator-skeleton)
