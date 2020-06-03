@@ -28,3 +28,4 @@ Assignments of the Java for Android course on Coursera.
 * [Add.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m8-assignment-calculator-skeleton/app/src/main/java/mooc/vandy/java4android/calculator/logic/Add.java)
 * [Subtract.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m8-assignment-calculator-skeleton/app/src/main/java/mooc/vandy/java4android/calculator/logic/Subtract.java)
 * [Multiply.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m8-assignment-calculator-skeleton/app/src/main/java/mooc/vandy/java4android/calculator/logic/Multiply.java)
+* [Divide.java](https://github.com/jayesh-srivastava/java-for-android-coursera/blob/master/m8-assignment-calculator-skeleton/app/src/main/java/mooc/vandy/java4android/calculator/logic/Divide.java)
